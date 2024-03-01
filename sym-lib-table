@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Power_board_lib")(type "KiCad")(uri "${KIPRJMOD}/Power_board_lib.kicad_sym")(options "")(descr ""))
+  (lib (name "PDS1040L-13")(type "KiCad")(uri "${KIPRJMOD}/Symbols/PDS1040L-13.kicad_sym")(options "")(descr ""))
+  (lib (name "BQ24650RVAT")(type "KiCad")(uri "${KIPRJMOD}/Symbols/BQ24650RVAT.kicad_sym")(options "")(descr ""))
+  (lib (name "AT103-2NTC")(type "KiCad")(uri "${KIPRJMOD}/Symbols/AT103-2NTC.kicad_sym")(options "")(descr ""))
+  (lib (name "SI7288DP-T1-GE3")(type "KiCad")(uri "${KIPRJMOD}/Symbols/SI7288DP-T1-GE3.kicad_sym")(options "")(descr ""))
+)
