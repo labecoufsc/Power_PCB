@@ -1,4 +1,4 @@
-21880661540936824
+21938886378038583
 2N7002_
 SOT23
 <b>SMALL OUTLINE TRANSISTOR</b><p>reflow soldering
@@ -6,6 +6,27 @@ SOT23
 0
 3
 3
+3.3_LDO
+SOT95P285X140-5N
+
+
+0
+5
+5
+3.4_Stepdown
+TPS564242DRLR_TEX
+
+TPS564257DRLR 
+0
+6
+6
+AP2112K-3.3TRG1
+SOT95P285X140-5N
+
+
+0
+5
+5
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -20,6 +41,20 @@ audio belton reverb
 0
 7
 7
+B2250MOSFET
+SOT95P240X110-3N
+
+
+0
+3
+3
+BQ24650
+QFN50P350X350X100-17N
+
+
+0
+17
+17
 BQ24650RVAR
 QFN50P350X350X100-17N
 
@@ -27,6 +62,27 @@ QFN50P350X350X100-17N
 0
 17
 17
+BQ24650RVAR(1)
+QFN50P350X350X100-17N
+
+
+0
+17
+17
+BS250FTA
+SOT95P240X110-3N
+
+
+0
+3
+3
+Barrel_Jack
+XKB_DC-005-5A-2.0
+
+
+0
+3
+3
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -51533,6 +51589,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DC-005-5A-2.0
+XKB_DC-005-5A-2.0
+
+
+0
+3
+3
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -54522,13 +54585,6 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
-GRM033R60J104KE19D
-CAPC0603X33N
-
-
-0
-2
-2
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -54676,6 +54732,41 @@ IHLP-2525CZ-01
 0
 2
 2
+IHLP2020CZER1R5M01
+IND_IHLP-2020CZ
+
+IHLP2020CZER1R5M01 
+0
+2
+2
+IHLP2020CZER1R5M01
+IND_IHLP-2020CZ-L
+
+IHLP2020CZER1R5M01 
+0
+2
+2
+IHLP2020CZER1R5M01
+IND_IHLP-2020CZ-M
+
+IHLP2020CZER1R5M01 
+0
+2
+2
+INA138
+SOT95P280X145-5N
+
+
+0
+5
+5
+INA138NA_3K
+SOT95P280X145-5N
+
+
+0
+5
+5
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -59849,6 +59940,13 @@ solder jumper open
 0
 5
 3
+LED
+LEDC1608X35N
+
+
+0
+2
+2
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -60997,6 +61095,27 @@ LEDC1608X35N
 0
 2
 2
+L_3.4
+L_Vishay_IHLP-2020
+Inductor, Vishay, IHLP series, 5.1mmx5.1mm
+inductor vishay ihlp smd
+0
+2
+2
+L_MPPT
+L_Koher_MDA1350_13.5x12.6mm_1
+Tai Tech TMPC1265 series SMD inductor https://datasheet.lcsc.com/lcsc/2009171439_TAI-TECH-TMPC1265HP-100MG-D_C305223.pdf, 13.5x12.5x6.2mm
+Tai Tech TMPC1265 SMD inductor
+0
+2
+2
+MINI-SPDT-SW
+SW-SPDT-SW
+
+
+0
+3
+3
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -63573,6 +63692,27 @@ Mounting 4.5mm 9774100982
 0
 8
 1
+My_Passive
+C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+My_Passive
+R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+NTCG103JF103FT1S
+THRMC1005X55N
+<b>RESISTOR</b>
+
+0
+2
+2
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
@@ -64708,6 +64848,13 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 4
 4
 PDS1040L-13
+DIO_PDS1040L-13
+
+
+0
+3
+3
+PDS1040L-13_solar
 DIO_PDS1040L-13
 
 
@@ -83495,6 +83642,13 @@ rotary encoder
 0
 7
 6
+SI7288DP
+TRANS_SI7288DP-T1-GE3
+
+
+0
+6
+6
 SI7288DP-T1-GE3
 TRANS_SI7288DP-T1-GE3
 
@@ -83502,7 +83656,28 @@ TRANS_SI7288DP-T1-GE3
 0
 6
 6
+SN74LVC1G74DCTR
+SOP65P400X130-8N
+
+
+0
+8
+8
+SS-12M10G4
+SS-12M10G4
+
+
+0
+3
+3
 Screw_Term_1x2
+CONN_1729128_PXC
+
+1729128 
+0
+2
+2
+Screw_Terminal
 CONN_1729128_PXC
 
 1729128 
@@ -83971,6 +84146,13 @@ LEM Hall Effect Voltage transducer
 0
 5
 5
+Slide_Switch
+SW-SPDT-SW
+
+
+0
+3
+3
 Socket
 3M_Textool_240-1288-00-0602J_2x20_P2.54mm
 3M 40-pin zero insertion force socket, though-hole, row spacing 25.4 mm (1000 mils)
@@ -85091,6 +85273,48 @@ Logo WEEE
 0
 0
 0
+TPS62822DLCR
+DLC0008A
+
+TPS62822DLCR 
+0
+8
+8
+TPS259571DSGR
+DSG0008A
+
+TPS259571DSGR 
+0
+11
+10
+TPS259571DSGR
+DSG0008A_NV
+
+TPS259571DSGR 
+0
+9
+9
+TPS564257DRLR
+TPS564242DRLR_TEX
+
+TPS564257DRLR 
+0
+6
+6
+TPS564257DRLR
+TPS564242DRLR_TEX-L
+
+TPS564257DRLR 
+0
+6
+6
+TPS564257DRLR
+TPS564242DRLR_TEX-M
+
+TPS564257DRLR 
+0
+6
+6
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -89179,6 +89403,20 @@ test point THT pad
 0
 1
 1
+TestpointMINE
+TestPoint_Pad_1.0x1.0mm
+SMD rectangular pad as test Point, square 1.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+Thermistor
+THRMC1005X55N
+<b>RESISTOR</b>
+
+0
+2
+2
 Transformer_SMD
 Pulse_P0926NL
 SMT Gate Drive Transformer, 1:1:1, 8.0x6.3x5.3mm (https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)
