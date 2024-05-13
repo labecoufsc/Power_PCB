@@ -39,4 +39,5 @@
   (lib (name "My_Passive")(type "KiCad")(uri "${KIPRJMOD}/Footprints/My_Passive.pretty")(options "")(descr ""))
   (lib (name "B2250MOSFET")(type "KiCad")(uri "${KIPRJMOD}/Footprints/B2250MOSFET.pretty")(options "")(descr ""))
   (lib (name "INA138")(type "KiCad")(uri "${KIPRJMOD}/Footprints/INA138.pretty")(options "")(descr ""))
+  (lib (name "Logos")(type "KiCad")(uri "${KIPRJMOD}/Footprints/Logo/Logos.pretty")(options "")(descr ""))
 )

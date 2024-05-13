@@ -1,4 +1,4 @@
-21938886378038583
+21942314015354079
 2N7002_
 SOT23
 <b>SMALL OUTLINE TRANSISTOR</b><p>reflow soldering
@@ -54760,13 +54760,6 @@ SOT95P280X145-5N
 0
 5
 5
-INA138NA_3K
-SOT95P280X145-5N
-
-
-0
-5
-5
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -61109,6 +61102,27 @@ Tai Tech TMPC1265 SMD inductor
 0
 2
 2
+Logos
+BoiasLivres
+
+
+0
+0
+0
+Logos
+CNPQ
+
+
+0
+0
+0
+Logos
+INEOF
+
+
+0
+0
+0
 MINI-SPDT-SW
 SW-SPDT-SW
 
